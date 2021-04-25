@@ -1,0 +1,13 @@
+.outs_more-buttn a {
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    letter-spacing: 0.5px;
+    background-color: #ff3d00;
+    outline: none;
+    padding: 12px 17px;
+    border-radius: 5px;
+    border: 1px solid #ff3d00;
+

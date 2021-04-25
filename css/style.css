@@ -1,0 +1,65 @@
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+
+
+body{
+	margin: 0px;
+	padding: 0px;
+	min-width: 1900px;
+}
+	.logo{display:inline-block;}
+	.logo h1 a {
+	font-size: 50px;
+	color: #fff !important;
+	text-transform: capitalize;
+	font-weight: 600;
+	text-decoration: none;
+	padding-left: 117px;
+}
+	.logo h1 a span {
+	color:#ff3d00;
+}
+	.slider-info {
+	padding:151px;
+	padding-top:0px;
+}
+.slider-info h5 {
+	font-size: 4em;
+	color: #ffffff;
+	font-weight: 600;
+	letter-spacing: 2px;
+	line-height:75px;
+	text-shadow: 1px 1px 7px #000000;
+	margin-bottom: 0px;
+	margin-top:80px;
+}
+	.slider-info p {
+	font-size: 16px;
+	letter-spacing: 1px;
+	padding: 1em 31em 2em 1em;
+	color: #fff;
+	line-height: 31px;
+}
+.title {
+	font-size:45px;
+	color: #000;
+	letter-spacing: 3px;
+	font-weight: 600;
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: -2px;
+	padding-top: 20px;
+}
+.sub{
+	width: 100px;
+    border-bottom: 5px solid rgb(255, 61, 0);
+    margin:auto;
+}
+.team{
+	background: rgb(234, 234, 234)
+}
+.description{
+	text-align: center;
+	margin:25px;
+}
